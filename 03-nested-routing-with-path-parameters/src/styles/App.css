@@ -1,0 +1,6 @@
+.App {
+  padding-top: 50px;
+}
+
+/* You'll need internet connection to load the Bootstrap 4 styles. */
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
